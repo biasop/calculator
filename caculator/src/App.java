@@ -22,4 +22,9 @@ public class App extends Application {
         launch(args);
     }
     //hello github
+    //hello github 2
+    
+    int x = 1;
+    int y = 2;
+    int z = x + y;
 }
